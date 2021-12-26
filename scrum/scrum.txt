@@ -1,0 +1,316 @@
+Ágil é diferente de rápido
+
+O que é ser Ágil ?
+
+É rapidez na mudança  fazer coisas complexas de forma simples;
+
+Equipe comprometida com os objetivos;
+
+Maior valor para o cliente;
+
+O foco é o cliente não o projeto.
+
+SCRUM
+
+SCRUM é um dos frameworks de gerenciamento de projetos ágeis;
+
+PILARES DO SCRUM
+
+Transparência
+Adptação
+Inspeção
+
+- Conversar mais e escrever menos;
+
+- Demonstrar o software constanemente aos usuários e obter feedbacks constantes; 
+
+- Requisitos mudam ao logo do tempo;
+
+- Aprender progressivamente com o uso do software
+
+RAZÕES PARA ADOTAR O SCRUM:
+
+Desenvolvido e entregue em partes menore (2 a 4 semanas), com constante feedback dos usuários;
+
+Melhor gerenciamento de riscos; (Redução de incertezas)
+
+Comprometimento, motivação e transparência da equipe. (Daily Meeting);
+
+Mais valor para o negócio:(Priorização do Backlog)
+Usuários envolvidos durante o ciclo;
+
+Aplicação das Lições Aprendidas (melhoria contínua)
+
+CARACTERÍSTICAS DO TIME SCRUM:
+
+Equipes capazes de se auto-organizarem;
+
+As tarefas são do time e todos são responsáveis;
+
+Forte compromentimento com os resultados;
+
+
+QUAL A CARACTERÍSTICA DE UM PROJETO ÁGIL ?
+
+Escopo definido ao longo do Projeto.
+
+
+PAPÉIS E RESPONSABILIDADES DE CADA UM TIME DO SCRUM
+
+PRODUCT OWNER (PO)
+
+- Representante da área de negócios;
+
+- PO não um Comitê (Apenas uma pessoa);
+
+- Define as funcionalidades do software(Product Backlog);
+
+- Prioriza as funcionalidades de acordo com o valor do negócio;
+
+- Garante que o time de desenvolvimento entenda os itens do Backlog no nível necessário.
+
+SCRUM MASTER(SM)
+
+Garantir o uso correto do SCRUM;
+
+- Scrum Master não é Gerente de Projetos;
+
+- Age como facilitador;
+
+- Auxilia o Product Owner no planejamento e estimativas do backlog;
+
+- Auxilia a equipe a remover impedimentos;
+
+- Treina o time em autogerenciamento e interdisciplinaridade.
+
+TIME DE DESENVOLVIMENTO
+
+Possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando.
+
+CERIMÔNIAS SCRUM
+
+Time Box- Tempo máximo para fazer uma cerimônia ou Sprint.
+
+Sprint - corrida, arrancada
+
+É o principal evento do SCRUM.
+
+Duranção de 1 Sprint:
+No máximo 30 dias
+
+COMPOSIÇÃO DE UMA SPRINT:
+
+- Planejamento da Sprint.
+
+- Reuniões Diárias (Daily Meeting)
+
+- Revisão da Sprint (Review)
+
+- Retrospectiva da Sprint
+
+PLANEJAMENTO DA SPRINT
+
+(Ela é feita no Primeiro dia da sprint)
+
+Quem participa ? PO e o SM
+
+O tempo dessa reunião de planejamento leva no mínimo 8 horas (Sprint de 30 dias)
+
+O quê fazer ?
+
+O PO depois de desenvolver o Backlog explica o que fazer para a equipe inteira (deve estar bem detalhado)
+
+Como  fazer ?
+
+Aqui quem decide o que deve ser feito é o próprio time de DEV e quebra as atividades para ver o que deve ser feito.
+
+O time pode usar o planning poker para fazer uma estimativa para decidir o que deve ser feito.
+
+Depois de decidir o que será feito, detalhadamente, o time de DEV vai falar com PO sobre tudo o que o PO quis fazer conseguira ser feito até o final da Sprint.
+
+DAILY MEETING
+Time-Box: 15 minutos
+
+Nessa reunião o time se reune com e fala 
+
+- o que foi feito.
+
+- O que será feito.
+
+- E se há algum impedimento.
+
+Essa reunião deve ser de pé, se sentar a pessoa fica acomodada.
+
+O TIME JUNTO DEVE ATUALIZAR O QUADRO KANBAN.
+
+Na Sprint Review 
+
+*essa reunião é feita no último dia da Sprint
+Time-Box: 4h(Sprint 30 dias)
+
+O time de DEV apresenta para o PO o trabalho feito.
+
+RETROSPECTIVA DA SPRINT
+
+Reunião da equipe para Lições Aprendidas.
+
+Todo mundo precisa se reunir e ser transparente e falar os erros que aconteceram para que não se repita na próxima.
+
+Time-box:3h (Sprint 30 dias)
+
+DIFERENÇA PRÁTICA 
+
+Gestão de Projetos Tradicional x Gestão de Projetos Ágil
+
+
+O ágil responde rapidamente ao negócio.
+
+
+FUNDAMENTOS DO PROJETOS ÁGEIS
+
+PAPÉIS E RESPONSABILIDADES DO PO
+
+O Product Owner (PO) representa o profissional que tem a visão do que será desenvolvida, as necessidades a serem atendidas, o público que vai utilizar os serviços e os objetivos a serem alcançados.
+
+SCRUM MASTER
+
+Não deve ser o secretário do time.
+
+Nem o PO nem o SM são chefes do time.
+
+Na verdade não pode haver nenhuma divisão hierarquica no time.
+
+O PAPEL DO SM:
+É disseminar a metodologia ágil no time até que eles não precisem mais de você.
+
+O PAPEL DO PO:
+Trazer o maior valor para o produto,
+
+deve dizer se o projeto faz sentido ou não.
+
+A participação não deve estar na daily, mas deve estar tempo suficiente para conseguir sanar as dúvidas do time.
+
+o PO também deve estar presente e responder a qualquer dúvida. (Toda dúvida é válida).
+
+O PO não deve esperar a review para validar a entrega, na verdade o PO deve estar presente para acompanhar o processo de desenvolvimento do software.
+
+REFINING E PLANNING
+
+
+ (Uma planning eficiente começa outra cerimônia a REFINING)
+
+No REFINING (não é uma cerimônia obrigatória) o PO apresenta previamente para o time as histórias que serão previamente apresentada na Planning.
+
+Na REFINING é decidido o que será feito na PLANNING
+(Saber previamente o que será desenvolvido.)
+
+Porque a PLANNING é somente para apresentar o planejamento, e é de grande importância que na planning ninguém saia com dúvidas.
+
+E as regras de negócio deve estar bem explicadas.
+
+A PLANNING DEVE SER DIVIDA EM DUAS PARTAS
+
+1º PARTE
+Nesse processo o PO deve pegar os itens mais importante na parte de BACKLOG e explicar cada um deles.
+
+O time não pode pre-supr nada.
+
+Para evitar os achismos no time.
+
+Após isso o time deve fazer o que entra e o que não entra na SPRINT.
+
+2º PARTE
+
+É sugerido que o PO não participe, para o time ter liberdade.
+
+então o time de DEV deve validar aquilo que foi entregue pelo PO e pode quebrar as atividades, ou avaliar as que serão mais importantes.
+
+Então após a segunda parte o time deve dizer quais serão as atividades mais importantes, que se ele não for feita todo o resto cai.
+
+RELEASE PLANNING
+
+Liberação ou lançamento de software é o lançamento de nova versão oficial de produto de software. Cada vez que um produto de software é criado ou modificado, o fabricante e seus desenvolverdores decidem sobre como distribuir ou o novo produto ou a modificação às pessoas que o utilizam.
+
+Nem toda sprint precisa ter um Release mas quanto mais release acumulada mais dificil será a Realesa real.
+
+EXISTEM 2 TIPO DE REALEASE PLANNING:
+
+- REALESE PLANNING DE MÚLTIPLAS SQUADS
+
+- RELEASE PLANNING DE PROJETO
+
+Isso deve ser feito na hora da Realese Planning
+
+Deve se avaliar se a release é desing ou funcionalidade.
+
+ANALISANDO ESCOPO E DEFININDO PRIORIDADES
+
+A parte mais importante do projeto.
+
+O escopo deve ser divido por etapas que irão agregar ao cliente e por etapas. 
+
+E não entregar o que não irá ter valor algum.
+
+DEFININDO ESCOPO E PRIORIDADE
+
+O PRODUCT BACKLOG É COMPOSTO POR ÉPICOS E ESTÓRIAS
+
+Épicos = incremento sem muito detalhamente, ajuda a te direcionar dos caminhos que deve seguir.
+
+Estórias = Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+
+Deposi dividir essas estórias em tasks, e ela deve ser feita pela equipe de DEV.
+
+RISCOS E POSITVOS
+
+Positivos = Muito ignorada nos projetos, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas.
+
+Negativos = itens que podem afetar o prazo, custo ou escopo de um projeto de maneira maneira pode acabar inviabilizando-o.
+
+
+PAPEL DO PO NA TRANSFORMAÇÃO DIGITAL
+
+Transformação digital é um processo no qual as empresas fazem uso da tecnologia para melhorar o desempenho, aumentar o alcance e garantir resultados melhores.
+
+ser ágil é errar rápido e corrigir rápido.
+
+CONCEITOS E PLANEJAMENTOS DE TAREFAS
+
+ESTÓRIAS VS TAREFAS
+
+ÉPICO: conjutno de estórias (podemos quebrar os épicos em mais épicos.)
+
+ESTÓRIAS: conjuntos de tarefas(também podemos quebrar as ESTÓRIAS em ESTÓRIAS).
+
+CRITÉRIO DE ACEITE
+
+É uma lsita de critérios que precisam ser alcançados para que a User Story antenda os requisitos do usuário e seja aceita pelo Product Owner.
+
+CRITÉRIO DE ACEITE
+
+É uma lista de critérios para que a estória atenda aos requisitos do cliente.
+
+CLIENTE/ STAKEHOLDER
+
+O stakeholder é uma pessoa ou um grupo que legitima as ações de uma organização e que tem um papel direto ou indireto na gestão e resultados dessa mesma organizaçõ. Desta forma, um stakeholder pode ser afeto positivamente ou negativamente, dependendo das suas políticas e forma de atuação.
+
+Alguns exemplos de stakebolder de um empresa podem ser os seus funcionários, gestores, gerenetes, proprietários, fornecedores, concorrentes, ONGs, clientes, o Estado, credores, sindicatos e diversas outras pessoas ou emopresas que estejam relacionadas com um determinada ação ou projeto.
+
+ROTINAS DE UM TIME ÁGIL
+
+Deve ser sempre no mesmo lugar, e na mesma hora.
+
+Ela é mais focada nos desenvolvedores para eles saberem o que estão fazendo.
+
+a Retrospectiva é focada na sprint.
+Para dizer o que foi bom e o que foi ruim.
+
+Na Retro o SM também deve estar presente.
+
+No Refinamento o Time inteiro deve estar presente.
+
+REVIEW
+
+É feita pelo time de desenvolvimento, eles devem mostrar tudo o que foi feito e tirar as dúvidas técnicas. 
+
+A idéia é ver o que foi feito.		

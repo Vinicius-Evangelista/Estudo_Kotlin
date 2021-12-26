@@ -1,0 +1,126 @@
+Pensamento Computacional
+
+Objetivo: Refere-se ao precesso de pensamento envolvido expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador
+
+
+O pensamento computacional é muito importante na escrita na leitura, na matemática.
+
+O Pensamento Computacional é baseado em 4 passos
+
+Decomposição
+
+Reconhecimento de padrões
+
+Abstração
+
+Design de algoritmos:
+
+Automatizar, definir passo a passo a definição de um algoritmo
+
+Processo Contínuo
+
+Definir solução
+
+Testar a solução 
+
+Aperfeiçoamento da solução encontrada
+
+Variação dos pilares
+
+- Reciocínio Lógico
+- Refinamento
+
+
+(Engenharia é uma matemática aplicada)
+
+Competências Pensamentos Computacionais
+
+Pensmanento sistemático
+
+Colaboração dentro da equipe Criatividade e design
+Facilitador
+
+RACIOCÍNIO LÓGICO
+
+Raciocínio lógico é uma forma de pensamento estruturado, ou raciocínio, que permiete encontrar a conclusão ou determinar a resolução de problema.
+
+Quanto mais usar melhor fica.
+
+O raciocínio lógico é divido em 
+
+- indução 
+
+- dedução
+
+- abdução
+
+Quando encontramos a solução devemos aprimorá-las.
+
+
+DECOMPOSIÇÃO
+
+Se o problema é grande, então existes problemas pequenos que podem ser resolvidos.
+
+Como decompor ?
+
+Separe os components.
+
+Identifique Caracterísitcas dependências.
+
+E depois as união entre as peças entender as partes do problema.
+
+Reconhecimento de Padrões
+
+Modelo base Estrutura invariante
+
+Repetição
+
+
+COMO O COMPUTADOR RECONHECE PADRÕES
+
+No computador nós precisamos dador os dados/atributos
+
+Aprendizado - conceito associado ao objeto
+
+Armazenar dados
+
+Regras de decisão 
+
+ABSTRAÇÃO - Processo intelectual de isolamento de um objeto da realidade.
+
+Para abstrair precisamos capturar os pontos essenciais e daí nós conseguimos generalizar um objeto.
+
+Algoritmos de abstração:
+
+Merge Sorte, Clusteting, Busca binária.
+
+ALGORITMOS
+
+- Energia
+
+- Trabalhador
+
+- Eficiência
+
+- Rapidez
+
+O computador recebe, manipula e armazena dados.
+
+O Desenvolvimento do Programa
+
+Análise
+Algoritmo
+Codificação(codificar o algoritmo em uma linguagem de programação)
+
+Como construir um algoritmo ?
+
+Compreenção do problema
+Definição dados de entrada
+Definir processamento
+Definir dados de saída
+Utilizar um método de construção
+Teste e diagnóstico
+
+Como aprimorar essa habilidade ?
+
+Pegar problemas e explicar as suas decisões

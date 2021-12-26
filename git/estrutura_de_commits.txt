@@ -1,0 +1,55 @@
+Boas práticas para um commit 
+
+Sempre devemos usar de um commit atômico, devidí-lo em unidade, nunca uma unidade de uma unidade.
+
+estrutura básica de um commit 
+
+assunto
+corpo
+rodapé
+
+assunto : curto com no máximo 50 caracteres, sempre no modo imperativo, não terminar em ponto.
+
+sempre usar as frases para ver se o commit está adquado
+
+INGLÊS
+
+"If I applied,this commit will..."
+
+PORTUGUÊS
+
+"Se aceito, esse commit..."
+
+corpo : quebrar linha em 75 caracteres, identificar audiência, explicar tudo, usar markdown.
+
+rodapé: referencie assuntos relacionados caso
+
+Closes #1 nome da issue.
+
+COMANDO MUDAR EDITOR DO GITHUB
+
+git config --global core.editor "nome editor" no caso do code "code --await"
+
+VIM
+
+Para sair do vim 
+
+:q!
+
+para inserir algo no vim
+
+insert (tecla)
+
+Nomeclaturas para um commit semântico:
+
+fix: arruma um pequeno problema, seja de estilo ou no código
+
+feat: adiciona uma nova funcionalidade
+
+BREAK CHANGE : quebra de compatibilidade da API.
+
+Exemplo:
+
+Assunto Commit 
+
+fix : arruma erro na página de cadastro.

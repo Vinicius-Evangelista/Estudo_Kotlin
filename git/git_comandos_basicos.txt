@@ -1,0 +1,60 @@
+git config --list - Ver configurações do git.
+
+git config --global -- unset user.email - remove o email já configurado
+
+git config --global -- unset user.nickname - remove o nickname já configurado.
+
+git config --global user.email seuemail@gmail.com - adiciona o email as credenciais do git.
+
+git config --global user.nickmame seunovonome - adiciona o email as credenciais do git
+
+RESPOSITÓRIOS DO GIT
+
+git remove -v - vê os repositório ligados ao repositório local.
+
+
+GIT BRANCH
+
+git checkout -b nomeBranch - cria e já vai para a branch criada.
+
+git branch -m nomeDaBranch - nome muda o nome da branch que você está
+
+git branch -m nomeDaBranch novoNomeDaBranch - muda o nome da branch.
+
+git branch -d nomeDaBranch - deleta a branch.
+
+git stash save "contexto" - armazena a "sujeira" que ficou de uma branch para a outra.
+
+GIT STASH
+
+git stash list - lista todos os arquivos que foram armazenados no índices 
+
+git stash pop númeroDoIndice - tirá o que está guardado no stash.
+
+git stash clear - limpa tudo o que estiver no stash.
+
+GIT LOG
+
+git log nomeDoArquivo - podemos ver os logs dos arquivos.
+
+git log --oneline - traz de forma resumida o histórico.
+
+git log-graph - mostra o histórico de commits de formas gráficas.
+
+
+GIT K
+gitk - mostra o histórico de commits de uma interface gráfica.
+
+GIT RESET
+
+git reset HEAD~1 - aponta para onde será feito, no caso onde está a tag HEAD.
+
+git reset --soft - passa tudo estava no commit para a área de staging/index
+
+git reset -mixed - para tudo estava na área de commit para a working directory(modified, untracked...)
+
+git reset --hard - tira tudo o que estava naquele commit, literalmente apaga tudo o que estava no commit.
+
+GIT REVERT
+git revert HEAD~1 - faz a inversão do commit que está sendo apontado.
+

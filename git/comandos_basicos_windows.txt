@@ -1,0 +1,13 @@
+cd(cd NomeDaPasta)- entra em um diretório.
+
+dir(dir)- lista uma todos os arquivos ou diretório dentro de uma diretório
+
+ls(bash)- alternativa do dir para o bash
+
+mkdir - (make directory) cria um respositório
+
+echo- (echo > nomearquivo.tipoarquivo) cria um novo arquivo
+
+del - (del NomeDaPasta) deleta apenas o que estiver dentro do diretório e não o diretório
+
+rmdir - (rmdir NomeDoDiretório /S(remove arvores de pastas) /Q (não pede confirmação)) remove o diretório
